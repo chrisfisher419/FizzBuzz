@@ -4,6 +4,6 @@ for i in range (1, 100):
     elif i % 3 == 0:
         print("fizz")
     elif i % 5 == 0:
-        print("fizz")
+        print("buzz")
     else:
         print(i)
